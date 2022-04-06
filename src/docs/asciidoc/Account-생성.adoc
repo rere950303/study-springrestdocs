@@ -1,0 +1,12 @@
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toclevels: 2
+:sectlinks:
+[[Account-생성]]
+=== Account 생성
+include::{snippets}/test-controller-test/create-account/http-request.adoc[]
+include::{snippets}/test-controller-test/create-account/http-response.adoc[]
+include::{snippets}/test-controller-test/create-account/request-body.adoc[]
+include::{snippets}/test-controller-test/create-account/request-fields.adoc[]
+include::{snippets}/test-controller-test/create-account/response-body.adoc[]

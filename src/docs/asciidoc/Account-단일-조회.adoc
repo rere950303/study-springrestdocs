@@ -1,0 +1,12 @@
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toclevels: 2
+:sectlinks:
+[[Account-단일-조회]]
+=== Account 단일 조회
+include::{snippets}/test-controller-test/get-account/http-request.adoc[]
+include::{snippets}/test-controller-test/get-account/http-response.adoc[]
+include::{snippets}/test-controller-test/get-account/path-parameters.adoc[]
+include::{snippets}/test-controller-test/get-account/response-body.adoc[]
+include::{snippets}/test-controller-test/get-account/response-fields.adoc[]

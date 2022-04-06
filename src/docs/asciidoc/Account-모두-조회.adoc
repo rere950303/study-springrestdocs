@@ -1,0 +1,13 @@
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toclevels: 2
+:sectlinks:
+[[Account-모두-조회]]
+=== Account 모두 조회
+include::{snippets}/test-controller-test/get-account-list/http-request.adoc[]
+include::{snippets}/test-controller-test/get-account-list/http-response.adoc[]
+include::{snippets}/test-controller-test/get-account-list/request-body.adoc[]
+include::{snippets}/test-controller-test/get-account-list/request-parameters.adoc[]
+include::{snippets}/test-controller-test/get-account-list/response-body.adoc[]
+include::{snippets}/test-controller-test/get-account-list/response-fields.adoc[]
